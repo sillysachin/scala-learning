@@ -4,3 +4,4 @@ scala-learning.iml
 .settings/
 .classpath
 .project
+.cache
